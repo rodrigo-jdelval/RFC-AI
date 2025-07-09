@@ -1,7 +1,3 @@
-Ok, entendido. Voy a generar el `README.md` en castellano para GitHub, usando la **numeración definitiva** para cada RFC-AI, en lugar de los marcadores de posición. Esto hará que el índice sea mucho más claro y profesional.
-
------
-
 # Iniciativa de Estandarización RFC-AI
 
 -----
@@ -136,4 +132,3 @@ Estos documentos se enfocan en definir metodologías y formatos para la evaluaci
 3.  **Enviar Pull Requests:** Si tienes contribuciones directas al contenido de los borradores, envía `Pull Requests`. Asegúrate de seguir nuestra guía de estilo y formato (que se detallará en un futuro RFC-AI).
 4.  **Participar en Grupos de Trabajo:** Únete a los Grupos de Trabajo (WGs) relevantes para participar en discusiones técnicas más profundas y ayudar a dar forma a los estándares. Consulta nuestro documento sobre el proceso de la Iniciativa para obtener más detalles.
 
-¡Esperamos con entusiasmo tu colaboración para construir estándares sólidos para el futuro de la IA\!
